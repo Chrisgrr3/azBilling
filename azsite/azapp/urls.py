@@ -6,5 +6,5 @@ urlpatterns = [
     path('mca', views.mca),
     path('mosp', views.mosp),
     path('ea', views.ea),
-    path('mpa', views.mpa)
+    path('mpa', views.mpa),
 ]
