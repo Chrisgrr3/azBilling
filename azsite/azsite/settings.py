@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '+38=)imjja0z*oz*pq5m(ld@3vj=u97^0*8u#u*^7z4y-h!%!2'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ["https://azbill.azurewebsites.net"]
+ALLOWED_HOSTS = []
 
 
 # Application definition
